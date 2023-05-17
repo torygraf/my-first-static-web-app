@@ -19,3 +19,12 @@ main > h1 {
   text-align: center;
   font-size: 3.5em;
 }
+#mainmenu {
+  background-color:#eeeeee;
+  display: inline;
+  width:100%;
+}
+ul.menu li {
+  display: inline;
+
+}
