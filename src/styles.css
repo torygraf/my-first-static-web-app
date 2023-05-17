@@ -22,6 +22,10 @@ main > h1 {
 #mainmenu {
   background-color:#eeeeee;
   display: inline;
+  float:left;
+}
+#loginmenu {
+  float:right;
 }
 ul.menu li, ul.login li  {
   display: inline;
