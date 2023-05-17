@@ -17,7 +17,7 @@ padding-bottom:40%;
 
 heading img {
 	width:100% !important;
-	padding-bottom:6%;
+	padding-bottom:3%;
 }
 h2{
 	text-align: center;
@@ -28,6 +28,7 @@ div.mainleft {
 	float: left;
 	width:40%;
 	margin-right:5%;
+	padding-bottom:3%;
 }
 div.mainleft img {
     width: 400px;
@@ -48,6 +49,7 @@ div.mainright {
 	width:40%;
 	float: right;
 	margin-left:5%;
+	padding-bottom:3%;
 }
 div.logo {
 	display: inline;
