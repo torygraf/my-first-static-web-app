@@ -29,11 +29,11 @@ div.mainleft {
 	margin-right:5%;
 }
 div.mainleft.img {
-	max-width:600px;
+	max-width:500px;
 	text-align:center;
 }
 div.mainright.img {
-	max-width:600px;
+	max-width:500px;
 	text-align:center;
 }
 div.mainright {
@@ -61,7 +61,9 @@ ul.menu li, ul.login li {
   display: inline;
   margin-right:60px;
 }
-mainbody.h2 {
+mainbody h2 {
 	text-align:center;
 }
-
+img {
+text-align:center !important;	
+}
