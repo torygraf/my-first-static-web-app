@@ -75,5 +75,9 @@ img {
 text-align:center !important;	
 }
 .LearnMore {
-	background-color:#CBC2C0;
+a.LearnMore {
+	background-color:#9BEE30;
+	padding:10px;
+	text-decoration: none
+}
 }
