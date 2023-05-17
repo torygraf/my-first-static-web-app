@@ -16,7 +16,7 @@ main {
 }
 
 heading.img {
-	max-width:80%;	
+	max-width:70%;	
 }
 h2{
 	text-align: center;
@@ -29,11 +29,13 @@ div.mainleft {
 	margin-right:5%;
 }
 div.mainleft.img {
-	max-width:500px;
+	width:100%
+	max-width:100%;
 	text-align:center;
 }
 div.mainright.img {
-	max-width:500px;
+	width:100%;
+	max-width:100%;
 	text-align:center;
 }
 div.mainright {
