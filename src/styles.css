@@ -23,7 +23,7 @@ main > h1 {
   background-color:#eeeeee;
   display: inline;
 }
-ul.menu li {
+ul.menu li, ul.login li  {
   display: inline;
   margin-right:60px;
 }
