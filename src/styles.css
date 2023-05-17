@@ -79,8 +79,12 @@ img {
 text-align:center !important;	
 }
 a.LearnMore {
-	background-color:#3088F5;
-	color:#000000;
+	background-color:#3088F5 !important;
+	color:#000000 !important;
 	padding:10px;
 	text-decoration: none
+}
+a.LearnMore.Hover {
+	background-color:#000000 !important;
+	color:#3088F5 !important;	
 }
