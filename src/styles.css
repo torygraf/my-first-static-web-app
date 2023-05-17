@@ -17,7 +17,7 @@ padding-bottom:40%;
 
 heading.img {
 	width:100%;
-	max-width:100%;	
+	max-width:1000px;	
 }
 h2{
 	text-align: center;
@@ -74,10 +74,8 @@ mainbody h2 {
 img {
 text-align:center !important;	
 }
-.LearnMore {
 a.LearnMore {
 	background-color:#9BEE30;
 	padding:10px;
 	text-decoration: none
-}
 }
