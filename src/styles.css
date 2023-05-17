@@ -30,16 +30,16 @@ div.mainleft {
 	margin-right:5%;
 }
 div.mainleft img {
-    width: 100%;
+    width: 400px;
     max-width: 100%;
     text-align: center;
-	padding:20%;
+	padding:10%;
 }
 div.mainright img {
 	width:100%;
-	max-width:100%;
+	max-width:400px;
 	text-align:center;
-	padding:20%;
+	padding:10%;
 }
 div.mainright {
 	display: inline;
