@@ -12,7 +12,7 @@ html, body {
 main {
   margin: auto;
   width: 80%;
-  padding: 20px;
+  padding: 20%;
 }
 
 heading.img {
@@ -33,11 +33,13 @@ div.mainleft img {
     width: 100%;
     max-width: 100%;
     text-align: center;
+	padding:20%;
 }
 div.mainright img {
 	width:100%;
 	max-width:100%;
 	text-align:center;
+	padding:20%;
 }
 div.mainright {
 	display: inline;
