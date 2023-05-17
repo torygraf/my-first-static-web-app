@@ -14,7 +14,9 @@ main {
   width: 80%;
 padding-bottom:40%;
 }
-
+p {
+line-height:1.5;	
+}
 heading img {
 	width:100% !important;
 	padding-bottom:3%;
