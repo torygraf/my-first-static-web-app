@@ -22,9 +22,8 @@ main > h1 {
 #mainmenu {
   background-color:#eeeeee;
   display: inline;
-  width:100%;
 }
 ul.menu li {
   display: inline;
-
+  margin-right:60px;
 }
