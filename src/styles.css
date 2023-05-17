@@ -53,3 +53,10 @@ ul.menu li, ul.login li {
   display: inline;
   margin-right:60px;
 }
+mainbody.h2 {
+	text-align:center;
+}
+mainbody.img{
+	max-width:50%;
+	text-align:center;
+}
