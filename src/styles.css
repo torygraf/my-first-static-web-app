@@ -29,8 +29,10 @@ div.mainleft {
 	display: inline;
 	float: left;
 	width:40%;
-	margin-right:5%;
 	padding-bottom:3%;
+}
+div.middleColumn { 
+	min-width:10%;
 }
 div.mainleft img {
     width: 400px;
@@ -50,7 +52,6 @@ div.mainright {
 	display: inline;
 	width:40%;
 	float: right;
-	margin-left:5%;
 	padding-bottom:3%;
 }
 div.logo {
