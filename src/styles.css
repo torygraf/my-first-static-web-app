@@ -47,7 +47,8 @@ div.middleColumn {
 div.mainleft img, div.mainright img {
     width: 60%;
     max-width: 60%;
-    padding-left, padding-right {10%;)
+    padding-left:10%;
+	    padding-right: 10%;
 }
 
 div.mainright {
