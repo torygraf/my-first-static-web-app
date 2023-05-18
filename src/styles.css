@@ -51,7 +51,7 @@ div.mainleft img {
 }
 div.mainright img {
 	width:100%;
-	max-width:400px;
+	max-width:100%;
 	text-align:center;
 }
 div.mainright {
@@ -93,7 +93,7 @@ a.LearnMore {
 	padding:10px;
 	text-decoration: none
 }
-a.LearnMore.Hover {
+a.LearnMore Hover {
 	background-color:#000000 !important;
 	color:#3088F5 !important;	
 }
