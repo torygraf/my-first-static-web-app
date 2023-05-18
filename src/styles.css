@@ -44,16 +44,12 @@ div.mainleft {
 div.middleColumn { 
 	min-width:10%;
 }
-div.mainleft img {
-    width: 100%;
-    max-width: 100%;
-    text-align: center;
+div.mainleft img, div.mainright img {
+    width: 60%;
+    max-width: 60%;
+    padding-left, padding-right {10%;)
 }
-div.mainright img {
-	width:100%;
-	max-width:100%;
-	text-align:center;
-}
+
 div.mainright {
 	display: inline;
 	width:40%;
