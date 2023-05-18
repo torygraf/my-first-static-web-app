@@ -38,6 +38,7 @@ div.mainleft {
 	display: inline;
 	float: left;
 	width:40%;
+	Padding-left:1.2%;
 	padding-bottom:3%;
 }
 div.middleColumn { 
@@ -60,6 +61,7 @@ div.mainright img {
 div.mainright {
 	display: inline;
 	width:40%;
+		Padding-right:1.2%;
 	float: right;
 	padding-bottom:3%;
 }
