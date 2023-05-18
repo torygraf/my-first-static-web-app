@@ -45,23 +45,19 @@ div.middleColumn {
 	min-width:10%;
 }
 div.mainleft img {
-    width: 400px;
+    width: 100%;
     max-width: 100%;
     text-align: center;
-    padding-left: 20%;
-    padding-right: 20%;
 }
 div.mainright img {
 	width:100%;
 	max-width:400px;
 	text-align:center;
-    padding-left: 20%;
-    padding-right: 20%;
 }
 div.mainright {
 	display: inline;
 	width:40%;
-		Padding-right:1.2%;
+	Padding-right:1.2%;
 	float: right;
 	padding-bottom:3%;
 }
@@ -93,6 +89,7 @@ text-align:center !important;
 a.LearnMore {
 	background-color:#3088F5 !important;
 	color:#000000 !important;
+	font-weight:700;
 	padding:10px;
 	text-decoration: none
 }
