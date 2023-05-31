@@ -34,6 +34,8 @@ h2{
 	text-align: center;
 }
 
+div.mainleft, div.middleColumn, div.mainright { display: inline; }
+
 div.mainleft {
 	display: inline;
 	float: left;
